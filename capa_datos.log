@@ -1,0 +1,80 @@
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] (('8a8a8781774b2b4b0177983462731d17', 7, Decimal('0.00'), datetime.datetime(2021, 2, 12, 15, 45, 5), None, Decimal('2487.00'), datetime.datetime(2021, 2, 12, 16, 38, 3), '402880fc5e4ec411015e4ec650760134', '3273', None, Decimal('2487.00'), Decimal('0.00'), 'yisla', 53808, 'NORMAL', '402880fe603c7c9c01603c8a71c9017b', datetime.date(2021, 2, 12), 'CHECA DATOS', False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ecc5dfc0554', 'cmontiel', None, None, None),)
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
+02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
+02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] (('8a8a8781774b2b4b0177983462731d17', 7, Decimal('0.00'), datetime.datetime(2021, 2, 12, 15, 45, 5), None, Decimal('2487.00'), datetime.datetime(2021, 2, 12, 16, 38, 3), '402880fc5e4ec411015e4ec650760134', '3273', None, Decimal('2487.00'), Decimal('0.00'), 'yisla', 53808, 'NORMAL', '402880fe603c7c9c01603c8a71c9017b', datetime.datetime(2021, 2, 12, 0, 0), 'CHECA DATOS', False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ecc5dfc0554', 'cmontiel', None, None, None),)
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
+02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 63] (('ff808081777320a101779bedc2161093', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 6, 26), None, Decimal('2118.74'), datetime.datetime(2021, 2, 13, 9, 6, 26), '402880fc5e4ec411015e4ec6512a0136', '0221', None, Decimal('2118.74'), Decimal('0.00'), 'selias', 595, 'NORMAL', '402880fe603c7c9c01603c8a67240171', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '1642a07b-becd-432e-ac14-331f25dccff6', 'selias', None, None, None),)
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
+02/13/21 -> 09:06 AM: INFO [conn_suc.py, 63] (('ff808081777320a101779bedc2161093', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 6, 26), None, Decimal('2118.74'), datetime.datetime(2021, 2, 13, 9, 6, 26), '402880fc5e4ec411015e4ec6512a0136', '0221', None, Decimal('2118.74'), Decimal('0.00'), 'selias', 595, 'NORMAL', '402880fe603c7c9c01603c8a67240171', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '1642a07b-becd-432e-ac14-331f25dccff6', 'selias', None, None, None),)
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779bf7a69b1aeb', 1, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 17, 14), None, Decimal('10929.22'), datetime.datetime(2021, 2, 13, 8, 59, 19), '402880fc5e4ec411015e4ec64ce5012d', '5013', None, Decimal('10929.22'), Decimal('0.00'), 'obautista', 37894, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), 'NO ESTA EN BANCO', False, datetime.date(2021, 2, 13), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ec9a806052a', 'obautista', None, None, None),)
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a8781774b2b4b01779bf6b78a1efe', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 16, 13), None, Decimal('1880.28'), datetime.datetime(2021, 2, 13, 9, 16, 13), '402880fc5e4ec411015e4ec650760134', '8380', None, Decimal('1880.28'), Decimal('0.00'), 'nestrella', 53820, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', 'f159c1e5-15a4-4f8c-a997-0ba912da033f', 'nestrella', None, None, None),)
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
+02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779bf7a69b1aeb', 1, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 17, 14), None, Decimal('10929.22'), datetime.datetime(2021, 2, 13, 8, 59, 19), '402880fc5e4ec411015e4ec64ce5012d', '5013', None, Decimal('10929.22'), Decimal('0.00'), 'obautista', 37894, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.datetime(2021, 2, 13, 0, 0), 'NO ESTA EN BANCO', False, datetime.date(2021, 2, 13), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ec9a806052a', 'obautista', None, None, None), ('8a8a8781774b2b4b01779bf6b78a1efe', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 16, 13), None, Decimal('1880.28'), datetime.datetime(2021, 2, 13, 9, 16, 13), '402880fc5e4ec411015e4ec650760134', '8380', None, Decimal('1880.28'), Decimal('0.00'), 'nestrella', 53820, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', 'f159c1e5-15a4-4f8c-a997-0ba912da033f', 'nestrella', None, None, None))
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 63] (('8a8a82817792946401779c09e16c0cd7', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 37, 9), None, Decimal('304.82'), datetime.datetime(2021, 2, 13, 9, 37, 9), '402880fc5e4ec411015e4ec64f8e0131', '3655', None, Decimal('304.82'), Decimal('0.00'), 'mcolin', 46746, 'NORMAL', '402880fe603c7c9c01603c8a63220169', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e528d79015e5294b8cd1e84', 'mcolin', None, None, None),)
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779c0a92111aff', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 37, 54), None, Decimal('224.87'), datetime.datetime(2021, 2, 13, 9, 37, 54), '402880fc5e4ec411015e4ec64ce5012d', '3281', None, Decimal('224.87'), Decimal('0.00'), 'gcastillo', 37895, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 16), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e528d79015e5292325c10b5', 'gcastillo', None, None, None),)
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
+02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
