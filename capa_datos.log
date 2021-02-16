@@ -1,80 +1,183 @@
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] (('8a8a8781774b2b4b0177983462731d17', 7, Decimal('0.00'), datetime.datetime(2021, 2, 12, 15, 45, 5), None, Decimal('2487.00'), datetime.datetime(2021, 2, 12, 16, 38, 3), '402880fc5e4ec411015e4ec650760134', '3273', None, Decimal('2487.00'), Decimal('0.00'), 'yisla', 53808, 'NORMAL', '402880fe603c7c9c01603c8a71c9017b', datetime.date(2021, 2, 12), 'CHECA DATOS', False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ecc5dfc0554', 'cmontiel', None, None, None),)
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] ()
-02/12/21 -> 06:29 PM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
-02/12/21 -> 06:29 PM: INFO [conn_suc.py, 59] (('8a8a8781774b2b4b0177983462731d17', 7, Decimal('0.00'), datetime.datetime(2021, 2, 12, 15, 45, 5), None, Decimal('2487.00'), datetime.datetime(2021, 2, 12, 16, 38, 3), '402880fc5e4ec411015e4ec650760134', '3273', None, Decimal('2487.00'), Decimal('0.00'), 'yisla', 53808, 'NORMAL', '402880fe603c7c9c01603c8a71c9017b', datetime.datetime(2021, 2, 12, 0, 0), 'CHECA DATOS', False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ecc5dfc0554', 'cmontiel', None, None, None),)
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:04 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
-02/13/21 -> 09:04 AM: INFO [conn_suc.py, 59] ()
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 63] (('ff808081777320a101779bedc2161093', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 6, 26), None, Decimal('2118.74'), datetime.datetime(2021, 2, 13, 9, 6, 26), '402880fc5e4ec411015e4ec6512a0136', '0221', None, Decimal('2118.74'), Decimal('0.00'), 'selias', 595, 'NORMAL', '402880fe603c7c9c01603c8a67240171', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '1642a07b-becd-432e-ac14-331f25dccff6', 'selias', None, None, None),)
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:06 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
-02/13/21 -> 09:06 AM: INFO [conn_suc.py, 63] (('ff808081777320a101779bedc2161093', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 6, 26), None, Decimal('2118.74'), datetime.datetime(2021, 2, 13, 9, 6, 26), '402880fc5e4ec411015e4ec6512a0136', '0221', None, Decimal('2118.74'), Decimal('0.00'), 'selias', 595, 'NORMAL', '402880fe603c7c9c01603c8a67240171', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '1642a07b-becd-432e-ac14-331f25dccff6', 'selias', None, None, None),)
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779bf7a69b1aeb', 1, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 17, 14), None, Decimal('10929.22'), datetime.datetime(2021, 2, 13, 8, 59, 19), '402880fc5e4ec411015e4ec64ce5012d', '5013', None, Decimal('10929.22'), Decimal('0.00'), 'obautista', 37894, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), 'NO ESTA EN BANCO', False, datetime.date(2021, 2, 13), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ec9a806052a', 'obautista', None, None, None),)
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a8781774b2b4b01779bf6b78a1efe', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 16, 13), None, Decimal('1880.28'), datetime.datetime(2021, 2, 13, 9, 16, 13), '402880fc5e4ec411015e4ec650760134', '8380', None, Decimal('1880.28'), Decimal('0.00'), 'nestrella', 53820, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', 'f159c1e5-15a4-4f8c-a997-0ba912da033f', 'nestrella', None, None, None),)
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:21 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
-02/13/21 -> 09:21 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779bf7a69b1aeb', 1, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 17, 14), None, Decimal('10929.22'), datetime.datetime(2021, 2, 13, 8, 59, 19), '402880fc5e4ec411015e4ec64ce5012d', '5013', None, Decimal('10929.22'), Decimal('0.00'), 'obautista', 37894, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.datetime(2021, 2, 13, 0, 0), 'NO ESTA EN BANCO', False, datetime.date(2021, 2, 13), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e4ec411015e4ec9a806052a', 'obautista', None, None, None), ('8a8a8781774b2b4b01779bf6b78a1efe', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 16, 13), None, Decimal('1880.28'), datetime.datetime(2021, 2, 13, 9, 16, 13), '402880fc5e4ec411015e4ec650760134', '8380', None, Decimal('1880.28'), Decimal('0.00'), 'nestrella', 53820, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.datetime(2021, 2, 13, 0, 0), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', 'f159c1e5-15a4-4f8c-a997-0ba912da033f', 'nestrella', None, None, None))
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: SOLIS
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: TACUBA
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: ANDRADE
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 63] (('8a8a82817792946401779c09e16c0cd7', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 37, 9), None, Decimal('304.82'), datetime.datetime(2021, 2, 13, 9, 37, 9), '402880fc5e4ec411015e4ec64f8e0131', '3655', None, Decimal('304.82'), Decimal('0.00'), 'mcolin', 46746, 'NORMAL', '402880fe603c7c9c01603c8a63220169', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 12), None, 'b0ea1e84-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e528d79015e5294b8cd1e84', 'mcolin', None, None, None),)
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLE 4
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 63] (('8a8a85817788445d01779c0a92111aff', 0, Decimal('0.00'), datetime.datetime(2021, 2, 13, 9, 37, 54), None, Decimal('224.87'), datetime.datetime(2021, 2, 13, 9, 37, 54), '402880fc5e4ec411015e4ec64ce5012d', '3281', None, Decimal('224.87'), Decimal('0.00'), 'gcastillo', 37895, 'NORMAL', '402880fe603c7c9c01603c8a6e980176', datetime.date(2021, 2, 13), None, False, datetime.date(2021, 2, 16), None, 'b0ea1e20-e101-11e7-b1f8-b4b52f67eab0', '402880fc5e528d79015e5292325c10b5', 'gcastillo', None, None, None),)
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CF5FEBRERO
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: VERTIZ 176
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: BOLIVAR
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
-02/13/21 -> 09:40 AM: DEBUG [conn_suc.py, 55] Creacion de conexion con: CALLCENTER
-02/13/21 -> 09:40 AM: INFO [conn_suc.py, 60] SIN DATOS NUEVOS
+02/15/21 -> 01:30 PM: DEBUG [rep_clientes.py, 31] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 01:30 PM: DEBUG [rep_clientes.py, 32] [<pymysql.cursors.Cursor object at 0x011AA7A8>, <pymysql.cursors.Cursor object at 0x011AAB68>, <pymysql.cursors.Cursor object at 0x011AAB50>, <pymysql.cursors.Cursor object at 0x011AAA90>, <pymysql.cursors.Cursor object at 0x011AAA78>, <pymysql.cursors.Cursor object at 0x011AAAF0>, <pymysql.cursors.Cursor object at 0x011AAB80>, <pymysql.cursors.Cursor object at 0x011AAB98>]
+02/15/21 -> 01:39 PM: DEBUG [rep_clientes.py, 31] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 01:39 PM: DEBUG [rep_clientes.py, 32] [<pymysql.cursors.Cursor object at 0x0119A7A8>]
+02/15/21 -> 01:39 PM: DEBUG [rep_clientes.py, 31] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 01:39 PM: DEBUG [rep_clientes.py, 32] [<pymysql.cursors.Cursor object at 0x0294A7A8>, <pymysql.cursors.Cursor object at 0x0294AB68>, <pymysql.cursors.Cursor object at 0x0294AB50>, <pymysql.cursors.Cursor object at 0x0294AA90>, <pymysql.cursors.Cursor object at 0x0294AA78>, <pymysql.cursors.Cursor object at 0x0294AAF0>, <pymysql.cursors.Cursor object at 0x0294AB80>, <pymysql.cursors.Cursor object at 0x0294AB98>]
+02/15/21 -> 01:53 PM: DEBUG [conn_suc.py, 76] <pymysql.cursors.Cursor object at 0x02948AC0>
+02/15/21 -> 01:54 PM: DEBUG [rep_clientes.py, 33] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 01:54 PM: DEBUG [rep_clientes.py, 34] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 01:55 PM: DEBUG [conn_suc.py, 76] [<pymysql.cursors.Cursor object at 0x02958370>, <pymysql.cursors.Cursor object at 0x02958AC0>, <pymysql.cursors.Cursor object at 0x02958AA8>, <pymysql.cursors.Cursor object at 0x02958A78>, <pymysql.cursors.Cursor object at 0x02958A48>, <pymysql.cursors.Cursor object at 0x02958A60>, <pymysql.cursors.Cursor object at 0x02958AD8>, <pymysql.cursors.Cursor object at 0x02958AF0>]
+02/15/21 -> 02:23 PM: INFO [conn_suc.py, 94] [<pymysql.cursors.Cursor object at 0x02967388>, <pymysql.cursors.Cursor object at 0x02967AD8>, <pymysql.cursors.Cursor object at 0x02967AC0>, <pymysql.cursors.Cursor object at 0x02967A90>, <pymysql.cursors.Cursor object at 0x02967A60>, <pymysql.cursors.Cursor object at 0x02967A78>, <pymysql.cursors.Cursor object at 0x02967AF0>, <pymysql.cursors.Cursor object at 0x02967B08>]
+02/15/21 -> 02:23 PM: INFO [conn_suc.py, 94] [<pymysql.cursors.Cursor object at 0x02977388>, <pymysql.cursors.Cursor object at 0x02977AD8>, <pymysql.cursors.Cursor object at 0x02977AC0>, <pymysql.cursors.Cursor object at 0x02977A90>, <pymysql.cursors.Cursor object at 0x02977A60>, <pymysql.cursors.Cursor object at 0x02977A78>, <pymysql.cursors.Cursor object at 0x02977AF0>, <pymysql.cursors.Cursor object at 0x02977B08>]
+02/15/21 -> 02:23 PM: INFO [conn_suc.py, 94] [<pymysql.cursors.Cursor object at 0x02957388>, <pymysql.cursors.Cursor object at 0x02957AD8>, <pymysql.cursors.Cursor object at 0x02957AC0>, <pymysql.cursors.Cursor object at 0x02957A90>, <pymysql.cursors.Cursor object at 0x02957A60>, <pymysql.cursors.Cursor object at 0x02957A78>, <pymysql.cursors.Cursor object at 0x02957AF0>, <pymysql.cursors.Cursor object at 0x02957B08>]
+02/15/21 -> 02:24 PM: INFO [conn_suc.py, 94] [<pymysql.cursors.Cursor object at 0x02947388>, <pymysql.cursors.Cursor object at 0x02947AD8>, <pymysql.cursors.Cursor object at 0x02947AC0>, <pymysql.cursors.Cursor object at 0x02947A90>, <pymysql.cursors.Cursor object at 0x02947A60>, <pymysql.cursors.Cursor object at 0x02947A78>, <pymysql.cursors.Cursor object at 0x02947AF0>, <pymysql.cursors.Cursor object at 0x02947B08>]
+02/15/21 -> 02:24 PM: INFO [conn_suc.py, 96] [<pymysql.cursors.Cursor object at 0x02947388>, <pymysql.cursors.Cursor object at 0x02947AD8>, <pymysql.cursors.Cursor object at 0x02947AC0>, <pymysql.cursors.Cursor object at 0x02947A90>, <pymysql.cursors.Cursor object at 0x02947A60>, <pymysql.cursors.Cursor object at 0x02947A78>, <pymysql.cursors.Cursor object at 0x02947AF0>, <pymysql.cursors.Cursor object at 0x02947B08>]
+02/15/21 -> 02:31 PM: INFO [conn_suc.py, 86] [<pymysql.cursors.Cursor object at 0x029573A0>, <pymysql.cursors.Cursor object at 0x02957AF0>, <pymysql.cursors.Cursor object at 0x02957AD8>, <pymysql.cursors.Cursor object at 0x02957AA8>, <pymysql.cursors.Cursor object at 0x02957A78>, <pymysql.cursors.Cursor object at 0x02957A90>, <pymysql.cursors.Cursor object at 0x02957B08>, <pymysql.cursors.Cursor object at 0x02957B20>]
+02/15/21 -> 02:32 PM: INFO [conn_suc.py, 86] [<pymysql.cursors.Cursor object at 0x029573A0>, <pymysql.cursors.Cursor object at 0x02957AF0>, <pymysql.cursors.Cursor object at 0x02957AD8>, <pymysql.cursors.Cursor object at 0x02957AA8>, <pymysql.cursors.Cursor object at 0x02957A78>, <pymysql.cursors.Cursor object at 0x02957A90>, <pymysql.cursors.Cursor object at 0x02957B08>, <pymysql.cursors.Cursor object at 0x02957B20>]
+02/15/21 -> 02:33 PM: INFO [conn_suc.py, 86] [<pymysql.cursors.Cursor object at 0x02988370>, <pymysql.cursors.Cursor object at 0x02988AC0>, <pymysql.cursors.Cursor object at 0x02988AA8>, <pymysql.cursors.Cursor object at 0x02988A78>, <pymysql.cursors.Cursor object at 0x02988A48>, <pymysql.cursors.Cursor object at 0x02988A60>, <pymysql.cursors.Cursor object at 0x02988AD8>, <pymysql.cursors.Cursor object at 0x02988AF0>]
+02/15/21 -> 02:33 PM: INFO [conn_suc.py, 87] [<pymysql.cursors.Cursor object at 0x02988370>, <pymysql.cursors.Cursor object at 0x02988AC0>, <pymysql.cursors.Cursor object at 0x02988AA8>, <pymysql.cursors.Cursor object at 0x02988A78>, <pymysql.cursors.Cursor object at 0x02988A48>, <pymysql.cursors.Cursor object at 0x02988A60>, <pymysql.cursors.Cursor object at 0x02988AD8>, <pymysql.cursors.Cursor object at 0x02988AF0>]
+02/15/21 -> 02:40 PM: DEBUG [rep_clientes.py, 35] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 02:40 PM: DEBUG [rep_clientes.py, 36] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 02:42 PM: DEBUG [rep_clientes.py, 33] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 02:42 PM: DEBUG [rep_clientes.py, 34] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 02:43 PM: DEBUG [rep_clientes.py, 33] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 02:43 PM: DEBUG [rep_clientes.py, 34] [(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),), (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)]
+02/15/21 -> 04:09 PM: DEBUG [rep_clientes.py, 33] {(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)}
+02/15/21 -> 04:09 PM: DEBUG [rep_clientes.py, 34] {(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)}
+02/15/21 -> 04:11 PM: DEBUG [rep_clientes.py, 33] {(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)}
+02/15/21 -> 04:11 PM: DEBUG [rep_clientes.py, 34] {('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9))}
+02/15/21 -> 04:11 PM: DEBUG [rep_clientes.py, 33] {(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)}
+02/15/21 -> 04:11 PM: DEBUG [rep_clientes.py, 34] {('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9))}
+02/15/21 -> 04:12 PM: DEBUG [rep_clientes.py, 33] {(('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)}
+02/15/21 -> 04:12 PM: DEBUG [rep_clientes.py, 34] {('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9))}
+02/15/21 -> 04:12 PM: DEBUG [rep_clientes.py, 33] ((('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),),)
+02/15/21 -> 04:12 PM: DEBUG [rep_clientes.py, 34] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 04:33 PM: DEBUG [conn_suc.py, 80] <bound method connSuc.crearConexion of <class '__main__.connSuc'>>
+02/15/21 -> 04:33 PM: DEBUG [conn_suc.py, 81] [<pymysql.cursors.Cursor object at 0x02957370>, <pymysql.cursors.Cursor object at 0x02957AC0>, <pymysql.cursors.Cursor object at 0x02957AA8>, <pymysql.cursors.Cursor object at 0x02957A78>, <pymysql.cursors.Cursor object at 0x02957A48>, <pymysql.cursors.Cursor object at 0x02957A60>, <pymysql.cursors.Cursor object at 0x02957AD8>, <pymysql.cursors.Cursor object at 0x02957AF0>]
+02/15/21 -> 04:39 PM: DEBUG [conn_suc.py, 79] [<pymysql.connections.Connection object at 0x029770A0>, <pymysql.connections.Connection object at 0x02977AF0>, <pymysql.connections.Connection object at 0x02977B98>, <pymysql.connections.Connection object at 0x02977BF8>, <pymysql.connections.Connection object at 0x02977C70>, <pymysql.connections.Connection object at 0x02977D00>, <pymysql.connections.Connection object at 0x02977D90>, <pymysql.connections.Connection object at 0x02977E38>]
+02/15/21 -> 04:40 PM: DEBUG [conn_suc.py, 79] [<pymysql.connections.Connection object at 0x02978100>, <pymysql.connections.Connection object at 0x02978B20>, <pymysql.connections.Connection object at 0x02978BC8>, <pymysql.connections.Connection object at 0x02978C28>, <pymysql.connections.Connection object at 0x02978CA0>, <pymysql.connections.Connection object at 0x02978D30>, <pymysql.connections.Connection object at 0x02978DC0>, <pymysql.connections.Connection object at 0x02978E68>]
+02/15/21 -> 04:40 PM: DEBUG [conn_suc.py, 80] [<pymysql.cursors.Cursor object at 0x02958370>, <pymysql.cursors.Cursor object at 0x02958AC0>, <pymysql.cursors.Cursor object at 0x02958AA8>, <pymysql.cursors.Cursor object at 0x02958A78>, <pymysql.cursors.Cursor object at 0x02958A48>, <pymysql.cursors.Cursor object at 0x02958A60>, <pymysql.cursors.Cursor object at 0x02958AD8>, <pymysql.cursors.Cursor object at 0x02958AF0>]
+02/15/21 -> 04:43 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x029870A0>
+02/15/21 -> 04:44 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02957B98>
+02/15/21 -> 04:44 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02948BC8>
+02/15/21 -> 04:44 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02948BC8>
+02/15/21 -> 04:46 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02969BF8>
+02/15/21 -> 05:07 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02995B80>
+02/15/21 -> 05:58 PM: DEBUG [conn_suc.py, 79] <pymysql.connections.Connection object at 0x02965B80>
+02/15/21 -> 05:59 PM: DEBUG [conn_suc.py, 79] [<pymysql.connections.Connection object at 0x029C9AD8>, <pymysql.connections.Connection object at 0x029C9B08>, <pymysql.connections.Connection object at 0x029C9BC8>, <pymysql.connections.Connection object at 0x029C9C40>, <pymysql.connections.Connection object at 0x029C9CD0>, <pymysql.connections.Connection object at 0x029C9D78>, <pymysql.connections.Connection object at 0x029C9E20>, <pymysql.connections.Connection object at 0x029C9EE0>]
+02/15/21 -> 05:59 PM: DEBUG [conn_suc.py, 80] [<pymysql.cursors.Cursor object at 0x029C9310>, <pymysql.cursors.Cursor object at 0x029C9B50>, <pymysql.cursors.Cursor object at 0x029C9670>, <pymysql.cursors.Cursor object at 0x029C9B38>, <pymysql.cursors.Cursor object at 0x029C9B80>, <pymysql.cursors.Cursor object at 0x029C96A0>, <pymysql.cursors.Cursor object at 0x029C9B08>, <pymysql.cursors.Cursor object at 0x029C9BB0>]
+02/15/21 -> 06:00 PM: DEBUG [conn_suc.py, 79] [<pymysql.connections.Connection object at 0x02949AD8>, <pymysql.connections.Connection object at 0x02949B08>, <pymysql.connections.Connection object at 0x02949BC8>, <pymysql.connections.Connection object at 0x02949C40>, <pymysql.connections.Connection object at 0x02949CD0>, <pymysql.connections.Connection object at 0x02949D78>, <pymysql.connections.Connection object at 0x02949E20>, <pymysql.connections.Connection object at 0x02949EE0>]
+02/15/21 -> 06:00 PM: DEBUG [conn_suc.py, 80] [<pymysql.cursors.Cursor object at 0x02949310>, <pymysql.cursors.Cursor object at 0x02949B50>, <pymysql.cursors.Cursor object at 0x02949670>, <pymysql.cursors.Cursor object at 0x02949B38>, <pymysql.cursors.Cursor object at 0x02949B80>, <pymysql.cursors.Cursor object at 0x029496A0>, <pymysql.cursors.Cursor object at 0x02949B08>, <pymysql.cursors.Cursor object at 0x02949BB0>]
+02/15/21 -> 06:02 PM: DEBUG [conn_suc.py, 79] [<pymysql.connections.Connection object at 0x011B9AD8>, <pymysql.connections.Connection object at 0x011B9B08>, <pymysql.connections.Connection object at 0x011B9BC8>, <pymysql.connections.Connection object at 0x011B9C40>, <pymysql.connections.Connection object at 0x011B9CD0>, <pymysql.connections.Connection object at 0x011B9D78>, <pymysql.connections.Connection object at 0x011B9E20>, <pymysql.connections.Connection object at 0x011B9EE0>]
+02/15/21 -> 06:02 PM: DEBUG [conn_suc.py, 80] [<pymysql.cursors.Cursor object at 0x011B9310>, <pymysql.cursors.Cursor object at 0x011B9B50>, <pymysql.cursors.Cursor object at 0x011B9670>, <pymysql.cursors.Cursor object at 0x011B9B38>, <pymysql.cursors.Cursor object at 0x011B9B80>, <pymysql.cursors.Cursor object at 0x011B96A0>, <pymysql.cursors.Cursor object at 0x011B9B08>, <pymysql.cursors.Cursor object at 0x011B9BB0>]
+02/15/21 -> 06:08 PM: INFO [rep_clientes.py, 29] [<pymysql.cursors.Cursor object at 0x0295B3A0>, <pymysql.cursors.Cursor object at 0x0295BAF0>, <pymysql.cursors.Cursor object at 0x0295BAD8>, <pymysql.cursors.Cursor object at 0x0295BAA8>, <pymysql.cursors.Cursor object at 0x0295BA78>, <pymysql.cursors.Cursor object at 0x0295BA90>, <pymysql.cursors.Cursor object at 0x0295BB08>, <pymysql.cursors.Cursor object at 0x0295BB20>]
+02/15/21 -> 06:11 PM: INFO [rep_clientes.py, 29] [<pymysql.cursors.Cursor object at 0x029D7358>, <pymysql.cursors.Cursor object at 0x029D7AA8>, <pymysql.cursors.Cursor object at 0x029D7A90>, <pymysql.cursors.Cursor object at 0x029D7A60>, <pymysql.cursors.Cursor object at 0x029D7A30>, <pymysql.cursors.Cursor object at 0x029D7A48>, <pymysql.cursors.Cursor object at 0x029D7AC0>, <pymysql.cursors.Cursor object at 0x029D7AD8>]
+02/15/21 -> 06:14 PM: INFO [rep_clientes.py, 26] [<pymysql.cursors.Cursor object at 0x0295B3B8>, <pymysql.cursors.Cursor object at 0x0295BB08>, <pymysql.cursors.Cursor object at 0x0295BAF0>, <pymysql.cursors.Cursor object at 0x0295BAC0>, <pymysql.cursors.Cursor object at 0x0295BA90>, <pymysql.cursors.Cursor object at 0x0295BAA8>, <pymysql.cursors.Cursor object at 0x0295BB20>, <pymysql.cursors.Cursor object at 0x0295BB38>]
+02/15/21 -> 06:14 PM: INFO [rep_clientes.py, 26] [<pymysql.cursors.Cursor object at 0x029DB3B8>, <pymysql.cursors.Cursor object at 0x029DBB08>, <pymysql.cursors.Cursor object at 0x029DBAF0>, <pymysql.cursors.Cursor object at 0x029DBAC0>, <pymysql.cursors.Cursor object at 0x029DBA90>, <pymysql.cursors.Cursor object at 0x029DBAA8>, <pymysql.cursors.Cursor object at 0x029DBB20>, <pymysql.cursors.Cursor object at 0x029DBB38>]
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:18 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/15/21 -> 06:29 PM: DEBUG [conn_suc.py, 86] None
+02/15/21 -> 06:31 PM: DEBUG [conn_suc.py, 87] [<pymysql.connections.Connection object at 0x02949AF0>, <pymysql.connections.Connection object at 0x02949B20>, <pymysql.connections.Connection object at 0x02949BE0>, <pymysql.connections.Connection object at 0x02949C58>, <pymysql.connections.Connection object at 0x02949CE8>, <pymysql.connections.Connection object at 0x02949D90>, <pymysql.connections.Connection object at 0x02949E38>, <pymysql.connections.Connection object at 0x02949EF8>]
+02/15/21 -> 06:32 PM: DEBUG [conn_suc.py, 87] [<dta_src_rep.Dta_src object at 0x02969340>, <dta_src_rep.Dta_src object at 0x02969A90>, <dta_src_rep.Dta_src object at 0x02969A78>, <dta_src_rep.Dta_src object at 0x02969A48>, <dta_src_rep.Dta_src object at 0x02969A18>, <dta_src_rep.Dta_src object at 0x02969A30>, <dta_src_rep.Dta_src object at 0x02969AA8>, <dta_src_rep.Dta_src object at 0x02969AC0>, <dta_src_rep.Dta_src object at 0x02969AD8>]
+02/15/21 -> 06:33 PM: DEBUG [conn_suc.py, 87] [<dta_src_rep.Dta_src object at 0x02949340>, <dta_src_rep.Dta_src object at 0x02949A90>, <dta_src_rep.Dta_src object at 0x02949A78>, <dta_src_rep.Dta_src object at 0x02949A48>, <dta_src_rep.Dta_src object at 0x02949A18>, <dta_src_rep.Dta_src object at 0x02949A30>, <dta_src_rep.Dta_src object at 0x02949AA8>, <dta_src_rep.Dta_src object at 0x02949AC0>, <dta_src_rep.Dta_src object at 0x02949AD8>]
+02/15/21 -> 06:34 PM: DEBUG [conn_suc.py, 87] None
+02/16/21 -> 12:30 PM: DEBUG [conn_suc.py, 86] None
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 86] None
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:17 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:18 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:19 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:20 PM: DEBUG [rep_clientes.py, 25] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:21 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:21 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:23 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] SOLIS
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] TACUBA
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] ANDRADE
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] OFICINAS
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] CALLE 4
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] CF5FEBRERO
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] VERTIZ 176
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] BOLIVAR
+02/16/21 -> 01:44 PM: DEBUG [conn_suc.py, 42] CALLCENTER
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:44 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)

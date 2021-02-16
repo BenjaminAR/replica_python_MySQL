@@ -15,19 +15,3 @@ class Dta_src:
         self.activa = activa
         self.url_alternativa = url_alternativa
         self.sucursal = sucursal
-
-    def __str__(self):
-        return (
-            f'{self.id} '
-            f'{self.version} '
-            f'{self.central} '
-            f'{self.username} '
-            f'{self.url} '
-            f'{self.server} '
-            f'{self.ip} '
-            f'{self.password} '
-            f'{self.data_base} '
-            f'{self.activa} '
-            f'{self.url_alternativa} '
-            f'{self.sucursal} '
-        )

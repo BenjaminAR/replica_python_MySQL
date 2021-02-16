@@ -40,7 +40,7 @@ class Conexion:
         else:
             return cls.__cursor
 
-    @classmethod
+'''    @classmethod
     def cerrar(cls):
         if cls.__cursor is not None:
             try:
@@ -52,7 +52,7 @@ class Conexion:
             try:
                 cls.__conexion.close()
             except Exception as e:
-                logger.debug(f'Error:{e}')
+                logger.debug(f'Error:{e}')'''
 
 
 if __name__ == '__main__':

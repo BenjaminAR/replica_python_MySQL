@@ -3,9 +3,9 @@ from datetime import datetime
 
 class Query:
     today = date.today()
-    __SOL_DEP = f"SELECT * FROM solicitud_de_deposito WHERE cobro_id IS NULL AND DATE(fecha) >='{today}' LIMIT 10"
-    __CLIENTE = "SELECT * FROM cliente"
-    __COM_EMPRESA = 'SELECT * FROM comunicacion_empresa'
+    __SOL_DEP = f"SELECT * FROM solicitud_de_deposito WHERE cobro_id IS NULL AND DATE(fecha) >='{today}' and version >=1 LIMIT 10"
+    __CLIENTE = "SELECT * FROM cliente LIMIT 10"
+    __COM_EMPRESA = 'SELECT * FROM comunicacion_empresa LIMIT 1'
     
     
     @classmethod
