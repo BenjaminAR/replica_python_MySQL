@@ -12,15 +12,13 @@ class ConnSuc:
     DAO (Data Acces Objet) 
     CRUD: Create-Read-Update-Delate entidad Persona
     '''
-    __SELECCIONAR = 'SELECT * FROM data_source_replica'
     conexion = None
     __cursor = None
     
     @classmethod
     def seleccionar(cls):
-        #logger.debug(Conexion.obtenerConexion())
         cursor = Conexion.obtenerCursor()
-        cursor.execute(cls.__SELECCIONAR)
+        cursor.execute(Query.selSuc())
         registros = cursor.fetchall()
         sucursales = []
         for registro in registros:
@@ -31,7 +29,6 @@ class ConnSuc:
                         registro[8], registro[9],
                         registro[10], registro[11])
             sucursales.append(sucursal)
-        #Conexion.cerrar()
         return sucursales
     
     @classmethod

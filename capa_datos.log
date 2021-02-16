@@ -181,3 +181,12 @@
 02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
 02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
 02/16/21 -> 01:46 PM: DEBUG [rep_clientes.py, 26] (('0000000060a14f850160a385ff112aa', 0, True, 'TEL', 'TELEFONO 1', 0, '1055-1610', '402880fc5e7b8d04015e7bd3b81808ae', False, None, None, None, None, None, datetime.date(2018, 11, 9)),)
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] SOLIS
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] TACUBA
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] ANDRADE
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] OFICINAS
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] CALLE 4
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] CF5FEBRERO
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] VERTIZ 176
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] BOLIVAR
+02/16/21 -> 02:05 PM: DEBUG [conn_suc.py, 39] CALLCENTER
